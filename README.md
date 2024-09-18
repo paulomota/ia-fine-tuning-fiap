@@ -20,6 +20,10 @@ pip install -r requirements.txt
 
 ### 3.Preparar os Dados
 
+#### 3.1 Baixar o arquivo trn.json e colocar na pasta /data
+
+#### 3.2 Executar o comando abaixo
+
 ```bash
 python scripts/prepare_data.py
 ```
